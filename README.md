@@ -1,4 +1,5 @@
 # Leadership-Skills-Final-Project
+## HelloFresh Final Analytics Opportunity
 Executing analytics on HelloFresh’s customer data to identify churn root causes and design strategies to increase retention.
 
 |Team Member|
