@@ -3,13 +3,13 @@ Executing analytics on HelloFresh’s customer data to identify churn root cause
 
 |Team Member|
 |:---:|
-|[**Indu Jha**]|
-|[**Ziyoda Saidova**]|
-|[**Sijie Li**]|
-|[**Yifan Jiang**]|
-|[**Qingyun Hu**]|
-|[**Melanie Tran**]|
-|[**Dom McBride**]|
+|**Indu Jha**|
+|**Ziyoda Saidova**|
+|**Sijie Li**|
+|**Yifan Jiang**|
+|**Qingyun Hu**|
+|**Melanie Tran**|
+|**Dom McBride**|
 
 ## Agenda
 * HelloFresh and Meal Kit Industry Overview
